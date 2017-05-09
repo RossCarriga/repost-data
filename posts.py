@@ -12,7 +12,9 @@ def sample_valid_reddit_response():
 		response_json = sample_valid_reddit_response()
 	return response_json
 
+
 response_json = sample_valid_reddit_response()
 
+del response_json['data']['children']
 with open('sample_response.json', 'w+') as f:
 	json.dump(response_json, f, indent=5)
