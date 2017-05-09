@@ -3,7 +3,6 @@ import pprint
 import requests
 
 def sample_valid_reddit_response():
-
 	r = requests.get('http://www.reddit.com/r/cscareerquestions/top.json')
 	response_json = r.json()
 
@@ -20,3 +19,11 @@ def save_sample():
 	with open('sample_response.json', 'w+') as f:
 		json.dump(response_json, f, indent=5)
 
+def get_next_reddit_response():
+    response = {}
+    with open('sample_response.json', 'r') as f:
+        response = json.load(f)
+    
+    after = response['data']['after']
+
+    print(after)
