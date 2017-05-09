@@ -27,3 +27,7 @@ def get_next_reddit_response():
     after = response['data']['after']
 
     print(after)
+
+
+if '__main__' == __name__:
+	get_next_reddit_response()
