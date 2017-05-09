@@ -2,8 +2,10 @@ import json
 import pprint
 import requests
 
+SAMPLE_REDDIT_URL = 'http://www.reddit.com/r/cscareerquestions/top.json'
+
 def sample_valid_reddit_response():
-	r = requests.get('http://www.reddit.com/r/cscareerquestions/top.json')
+	r = requests.get(SAMPLE_REDDIT_URL)
 	response_json = r.json()
 
 	if 'data' not in response_json:
