@@ -21,7 +21,7 @@
                          "view_count": null,
                          "secure_media_embed": {},
                          "clicked": false,
-                         "score": 48,
+                         "score": 42,
                          "report_reasons": null,
                          "author": "quittingmyjobafterme",
                          "saved": false,
@@ -61,7 +61,7 @@
                          "num_comments": 18,
                          "visited": false,
                          "subreddit_type": "public",
-                         "ups": 48
+                         "ups": 42
                     }
                },
                {
@@ -82,7 +82,7 @@
                          "view_count": null,
                          "secure_media_embed": {},
                          "clicked": false,
-                         "score": 34,
+                         "score": 36,
                          "report_reasons": null,
                          "author": "megadarkfriend",
                          "saved": false,
@@ -122,7 +122,7 @@
                          "num_comments": 72,
                          "visited": false,
                          "subreddit_type": "public",
-                         "ups": 34
+                         "ups": 36
                     }
                },
                {
@@ -143,7 +143,7 @@
                          "view_count": null,
                          "secure_media_embed": {},
                          "clicked": false,
-                         "score": 31,
+                         "score": 30,
                          "report_reasons": null,
                          "author": "MiscBrahBert",
                          "saved": false,
@@ -183,68 +183,7 @@
                          "num_comments": 11,
                          "visited": false,
                          "subreddit_type": "public",
-                         "ups": 31
-                    }
-               },
-               {
-                    "kind": "t3",
-                    "data": {
-                         "contest_mode": false,
-                         "banned_by": null,
-                         "media_embed": {},
-                         "subreddit": "cscareerquestions",
-                         "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hi everybody,&lt;/p&gt;\n\n&lt;p&gt;Few months ago I graduated (PhD) in physics in Germany and I am currently employed at the department as postdoc until my contract runs out end of next month. For my next step, I am actively looking for positions as data scientist/analyst or developer. For my thesis I worked a lot in Fortran/C (simulations) and Python (post-processing) and I am not considering a career as academic. I like programming, I really have fun with it and I&amp;#39;d like to try a CS career.&lt;/p&gt;\n\n&lt;p&gt;A company (basically the IT-branch of a huge health company) as finally invited me for a trial day. The project (Python-based) seems really cool and I am looking forward for it. The position is labelled as junior developer, which for me makes sense: I never worked as a developer before and my experience in Python is mostly related to scientific analysis. However they made it clear that my salary expectation (45k, in euros) is a bit too high and it would have to be discussed. I considered that salary expectation a lower limit, considering that this is the gross yearly salary as a postdoc. To be clear, I was hoping for an upgrade, not a downgrade.&lt;/p&gt;\n\n&lt;p&gt;Coming from the academic world (with the PhD unfortunately not having the great value that I hoped), with not a strong formation as developer nor relevant professional experience (this would actually be my first job outside of university), would it be a bad or good move to accept a lower salary than I expected?&lt;/p&gt;\n\n&lt;p&gt;Cheers!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
-                         "selftext": "Hi everybody,\n\nFew months ago I graduated (PhD) in physics in Germany and I am currently employed at the department as postdoc until my contract runs out end of next month. For my next step, I am actively looking for positions as data scientist/analyst or developer. For my thesis I worked a lot in Fortran/C (simulations) and Python (post-processing) and I am not considering a career as academic. I like programming, I really have fun with it and I'd like to try a CS career.\n\nA company (basically the IT-branch of a huge health company) as finally invited me for a trial day. The project (Python-based) seems really cool and I am looking forward for it. The position is labelled as junior developer, which for me makes sense: I never worked as a developer before and my experience in Python is mostly related to scientific analysis. However they made it clear that my salary expectation (45k, in euros) is a bit too high and it would have to be discussed. I considered that salary expectation a lower limit, considering that this is the gross yearly salary as a postdoc. To be clear, I was hoping for an upgrade, not a downgrade.\n\nComing from the academic world (with the PhD unfortunately not having the great value that I hoped), with not a strong formation as developer nor relevant professional experience (this would actually be my first job outside of university), would it be a bad or good move to accept a lower salary than I expected?\n\nCheers!",
-                         "likes": null,
-                         "suggested_sort": null,
-                         "user_reports": [],
-                         "secure_media": null,
-                         "link_flair_text": null,
-                         "id": "6a4vpu",
-                         "view_count": null,
-                         "secure_media_embed": {},
-                         "clicked": false,
-                         "score": 27,
-                         "report_reasons": null,
-                         "author": "AyvwIgfxkhzNjiu",
-                         "saved": false,
-                         "mod_reports": [],
-                         "name": "t3_6a4vpu",
-                         "subreddit_name_prefixed": "r/cscareerquestions",
-                         "approved_by": null,
-                         "over_18": false,
-                         "domain": "self.cscareerquestions",
-                         "hidden": false,
-                         "thumbnail": "",
-                         "subreddit_id": "t5_2sdpm",
-                         "edited": false,
-                         "link_flair_css_class": null,
-                         "author_flair_css_class": null,
-                         "gilded": 0,
-                         "downs": 0,
-                         "brand_safe": true,
-                         "archived": false,
-                         "removal_reason": null,
-                         "can_gild": false,
-                         "is_self": true,
-                         "hide_score": false,
-                         "spoiler": false,
-                         "permalink": "/r/cscareerquestions/comments/6a4vpu/eu_salary_expectations_coming_from_different_area/",
-                         "num_reports": null,
-                         "locked": false,
-                         "stickied": false,
-                         "created": 1494359056.0,
-                         "url": "https://www.reddit.com/r/cscareerquestions/comments/6a4vpu/eu_salary_expectations_coming_from_different_area/",
-                         "author_flair_text": null,
-                         "quarantine": false,
-                         "title": "(EU) Salary expectations - Coming from different area",
-                         "created_utc": 1494330256.0,
-                         "distinguished": null,
-                         "media": null,
-                         "num_comments": 21,
-                         "visited": false,
-                         "subreddit_type": "public",
-                         "ups": 27
+                         "ups": 30
                     }
                },
                {
@@ -265,7 +204,7 @@
                          "view_count": null,
                          "secure_media_embed": {},
                          "clicked": false,
-                         "score": 30,
+                         "score": 29,
                          "report_reasons": null,
                          "author": "fedup_dev",
                          "saved": false,
@@ -305,7 +244,68 @@
                          "num_comments": 40,
                          "visited": false,
                          "subreddit_type": "public",
-                         "ups": 30
+                         "ups": 29
+                    }
+               },
+               {
+                    "kind": "t3",
+                    "data": {
+                         "contest_mode": false,
+                         "banned_by": null,
+                         "media_embed": {},
+                         "subreddit": "cscareerquestions",
+                         "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hi everybody,&lt;/p&gt;\n\n&lt;p&gt;Few months ago I graduated (PhD) in physics in Germany and I am currently employed at the department as postdoc until my contract runs out end of next month. For my next step, I am actively looking for positions as data scientist/analyst or developer. For my thesis I worked a lot in Fortran/C (simulations) and Python (post-processing) and I am not considering a career as academic. I like programming, I really have fun with it and I&amp;#39;d like to try a CS career.&lt;/p&gt;\n\n&lt;p&gt;A company (basically the IT-branch of a huge health company) as finally invited me for a trial day. The project (Python-based) seems really cool and I am looking forward for it. The position is labelled as junior developer, which for me makes sense: I never worked as a developer before and my experience in Python is mostly related to scientific analysis. However they made it clear that my salary expectation (45k, in euros) is a bit too high and it would have to be discussed. I considered that salary expectation a lower limit, considering that this is the gross yearly salary as a postdoc. To be clear, I was hoping for an upgrade, not a downgrade.&lt;/p&gt;\n\n&lt;p&gt;Coming from the academic world (with the PhD unfortunately not having the great value that I hoped), with not a strong formation as developer nor relevant professional experience (this would actually be my first job outside of university), would it be a bad or good move to accept a lower salary than I expected?&lt;/p&gt;\n\n&lt;p&gt;Cheers!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+                         "selftext": "Hi everybody,\n\nFew months ago I graduated (PhD) in physics in Germany and I am currently employed at the department as postdoc until my contract runs out end of next month. For my next step, I am actively looking for positions as data scientist/analyst or developer. For my thesis I worked a lot in Fortran/C (simulations) and Python (post-processing) and I am not considering a career as academic. I like programming, I really have fun with it and I'd like to try a CS career.\n\nA company (basically the IT-branch of a huge health company) as finally invited me for a trial day. The project (Python-based) seems really cool and I am looking forward for it. The position is labelled as junior developer, which for me makes sense: I never worked as a developer before and my experience in Python is mostly related to scientific analysis. However they made it clear that my salary expectation (45k, in euros) is a bit too high and it would have to be discussed. I considered that salary expectation a lower limit, considering that this is the gross yearly salary as a postdoc. To be clear, I was hoping for an upgrade, not a downgrade.\n\nComing from the academic world (with the PhD unfortunately not having the great value that I hoped), with not a strong formation as developer nor relevant professional experience (this would actually be my first job outside of university), would it be a bad or good move to accept a lower salary than I expected?\n\nCheers!",
+                         "likes": null,
+                         "suggested_sort": null,
+                         "user_reports": [],
+                         "secure_media": null,
+                         "link_flair_text": null,
+                         "id": "6a4vpu",
+                         "view_count": null,
+                         "secure_media_embed": {},
+                         "clicked": false,
+                         "score": 29,
+                         "report_reasons": null,
+                         "author": "AyvwIgfxkhzNjiu",
+                         "saved": false,
+                         "mod_reports": [],
+                         "name": "t3_6a4vpu",
+                         "subreddit_name_prefixed": "r/cscareerquestions",
+                         "approved_by": null,
+                         "over_18": false,
+                         "domain": "self.cscareerquestions",
+                         "hidden": false,
+                         "thumbnail": "",
+                         "subreddit_id": "t5_2sdpm",
+                         "edited": false,
+                         "link_flair_css_class": null,
+                         "author_flair_css_class": null,
+                         "gilded": 0,
+                         "downs": 0,
+                         "brand_safe": true,
+                         "archived": false,
+                         "removal_reason": null,
+                         "can_gild": false,
+                         "is_self": true,
+                         "hide_score": false,
+                         "spoiler": false,
+                         "permalink": "/r/cscareerquestions/comments/6a4vpu/eu_salary_expectations_coming_from_different_area/",
+                         "num_reports": null,
+                         "locked": false,
+                         "stickied": false,
+                         "created": 1494359056.0,
+                         "url": "https://www.reddit.com/r/cscareerquestions/comments/6a4vpu/eu_salary_expectations_coming_from_different_area/",
+                         "author_flair_text": null,
+                         "quarantine": false,
+                         "title": "(EU) Salary expectations - Coming from different area",
+                         "created_utc": 1494330256.0,
+                         "distinguished": null,
+                         "media": null,
+                         "num_comments": 21,
+                         "visited": false,
+                         "subreddit_type": "public",
+                         "ups": 29
                     }
                },
                {
@@ -387,7 +387,7 @@
                          "view_count": null,
                          "secure_media_embed": {},
                          "clicked": false,
-                         "score": 9,
+                         "score": 7,
                          "report_reasons": null,
                          "author": "Jogaul",
                          "saved": false,
@@ -427,7 +427,7 @@
                          "num_comments": 13,
                          "visited": false,
                          "subreddit_type": "public",
-                         "ups": 9
+                         "ups": 7
                     }
                },
                {
@@ -448,7 +448,7 @@
                          "view_count": null,
                          "secure_media_embed": {},
                          "clicked": false,
-                         "score": 7,
+                         "score": 11,
                          "report_reasons": null,
                          "author": "CSconsultant",
                          "saved": false,
@@ -488,7 +488,7 @@
                          "num_comments": 11,
                          "visited": false,
                          "subreddit_type": "public",
-                         "ups": 7
+                         "ups": 11
                     }
                },
                {
@@ -546,7 +546,68 @@
                          "created_utc": 1494313471.0,
                          "distinguished": "moderator",
                          "media": null,
-                         "num_comments": 48,
+                         "num_comments": 49,
+                         "visited": false,
+                         "subreddit_type": "public",
+                         "ups": 7
+                    }
+               },
+               {
+                    "kind": "t3",
+                    "data": {
+                         "contest_mode": false,
+                         "banned_by": null,
+                         "media_embed": {},
+                         "subreddit": "cscareerquestions",
+                         "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I&amp;#39;m applying for my first co-op position. I&amp;#39;m a mature student and I have a dog (and also just a general desire to have a life -- I want to work around 40-45). While I&amp;#39;m at work, I definitely focus and WORK the entire time -- I know in my previous career, anyway, I got much more done in less time than most of my coworkers. But I don&amp;#39;t want to end up at a company that regularly requires 10+ hour working days (rare crunch times are fine).&lt;/p&gt;\n\n&lt;p&gt;Since this is not only my first CS job but also only a co-op, is there any polite way to get a feel for a company&amp;#39;s attitude toward work-life balance/likely overtime during the interview?&lt;/p&gt;\n\n&lt;p&gt;I don&amp;#39;t want to be like &amp;quot;Hey, I am a super demanding employee who will not work herself to the bone for you.&amp;quot; Because I do work hard! I&amp;#39;m not lazy! I just also want to maintain some boundaries.&lt;/p&gt;\n\n&lt;p&gt;I want to make sure that the company and I are a good fit in terms of expectations, without coming across as rude or entitled. What kind of questions do you ask to get a sense of work-life balance at a company? What are red flags or good signs?&lt;/p&gt;\n\n&lt;p&gt;Thanks!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+                         "selftext": "I'm applying for my first co-op position. I'm a mature student and I have a dog (and also just a general desire to have a life -- I want to work around 40-45). While I'm at work, I definitely focus and WORK the entire time -- I know in my previous career, anyway, I got much more done in less time than most of my coworkers. But I don't want to end up at a company that regularly requires 10+ hour working days (rare crunch times are fine).\n\nSince this is not only my first CS job but also only a co-op, is there any polite way to get a feel for a company's attitude toward work-life balance/likely overtime during the interview?\n\nI don't want to be like \"Hey, I am a super demanding employee who will not work herself to the bone for you.\" Because I do work hard! I'm not lazy! I just also want to maintain some boundaries.\n\nI want to make sure that the company and I are a good fit in terms of expectations, without coming across as rude or entitled. What kind of questions do you ask to get a sense of work-life balance at a company? What are red flags or good signs?\n\nThanks!",
+                         "likes": null,
+                         "suggested_sort": null,
+                         "user_reports": [],
+                         "secure_media": null,
+                         "link_flair_text": null,
+                         "id": "6a7asc",
+                         "view_count": null,
+                         "secure_media_embed": {},
+                         "clicked": false,
+                         "score": 7,
+                         "report_reasons": null,
+                         "author": "mydgnim",
+                         "saved": false,
+                         "mod_reports": [],
+                         "name": "t3_6a7asc",
+                         "subreddit_name_prefixed": "r/cscareerquestions",
+                         "approved_by": null,
+                         "over_18": false,
+                         "domain": "self.cscareerquestions",
+                         "hidden": false,
+                         "thumbnail": "",
+                         "subreddit_id": "t5_2sdpm",
+                         "edited": 1494355341.0,
+                         "link_flair_css_class": null,
+                         "author_flair_css_class": null,
+                         "gilded": 0,
+                         "downs": 0,
+                         "brand_safe": true,
+                         "archived": false,
+                         "removal_reason": null,
+                         "can_gild": false,
+                         "is_self": true,
+                         "hide_score": false,
+                         "spoiler": false,
+                         "permalink": "/r/cscareerquestions/comments/6a7asc/figuring_out_work_life_balance_in_a_coop/",
+                         "num_reports": null,
+                         "locked": false,
+                         "stickied": false,
+                         "created": 1494383392.0,
+                         "url": "https://www.reddit.com/r/cscareerquestions/comments/6a7asc/figuring_out_work_life_balance_in_a_coop/",
+                         "author_flair_text": null,
+                         "quarantine": false,
+                         "title": "Figuring out \"work life balance\" in a co-op interview -- without coming across as entitled?",
+                         "created_utc": 1494354592.0,
+                         "distinguished": null,
+                         "media": null,
+                         "num_comments": 5,
                          "visited": false,
                          "subreddit_type": "public",
                          "ups": 7
@@ -570,7 +631,7 @@
                          "view_count": null,
                          "secure_media_embed": {},
                          "clicked": false,
-                         "score": 6,
+                         "score": 8,
                          "report_reasons": null,
                          "author": "jeebusjeebusjeebus",
                          "saved": false,
@@ -610,7 +671,7 @@
                          "num_comments": 8,
                          "visited": false,
                          "subreddit_type": "public",
-                         "ups": 6
+                         "ups": 8
                     }
                },
                {
@@ -631,7 +692,7 @@
                          "view_count": null,
                          "secure_media_embed": {},
                          "clicked": false,
-                         "score": 6,
+                         "score": 7,
                          "report_reasons": null,
                          "author": "Rabrg",
                          "saved": false,
@@ -671,7 +732,7 @@
                          "num_comments": 11,
                          "visited": false,
                          "subreddit_type": "public",
-                         "ups": 6
+                         "ups": 7
                     }
                },
                {
@@ -692,7 +753,7 @@
                          "view_count": null,
                          "secure_media_embed": {},
                          "clicked": false,
-                         "score": 7,
+                         "score": 4,
                          "report_reasons": null,
                          "author": "whytheway",
                          "saved": false,
@@ -732,7 +793,7 @@
                          "num_comments": 8,
                          "visited": false,
                          "subreddit_type": "public",
-                         "ups": 7
+                         "ups": 4
                     }
                },
                {
@@ -803,67 +864,6 @@
                          "banned_by": null,
                          "media_embed": {},
                          "subreddit": "cscareerquestions",
-                         "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I&amp;#39;m applying for my first co-op position. I&amp;#39;m a mature student and I have a dog (and also just a general desire to have a life -- I want to work around 40-45). While I&amp;#39;m at work, I definitely focus and WORK the entire time -- I know in my previous career, anyway, I got much more done in less time than most of my coworkers. But I don&amp;#39;t want to end up at a company that regularly requires 10+ hour working days (rare crunch times are fine).&lt;/p&gt;\n\n&lt;p&gt;Since this is not only my first CS job but also only a co-op, is there any polite way to get a feel for a company&amp;#39;s attitude toward work-life balance/likely overtime during the interview?&lt;/p&gt;\n\n&lt;p&gt;I don&amp;#39;t want to be like &amp;quot;Hey, I am a super demanding employee who will not work herself to the bone for you.&amp;quot; Because I do work hard! I&amp;#39;m not lazy! I just also want to maintain some boundaries.&lt;/p&gt;\n\n&lt;p&gt;I want to make sure that the company and I are a good fit in terms of expectations, without coming across as rude or entitled. What kind of questions do you ask to get a sense of work-life balance at a company? What are red flags or good signs?&lt;/p&gt;\n\n&lt;p&gt;Thanks!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
-                         "selftext": "I'm applying for my first co-op position. I'm a mature student and I have a dog (and also just a general desire to have a life -- I want to work around 40-45). While I'm at work, I definitely focus and WORK the entire time -- I know in my previous career, anyway, I got much more done in less time than most of my coworkers. But I don't want to end up at a company that regularly requires 10+ hour working days (rare crunch times are fine).\n\nSince this is not only my first CS job but also only a co-op, is there any polite way to get a feel for a company's attitude toward work-life balance/likely overtime during the interview?\n\nI don't want to be like \"Hey, I am a super demanding employee who will not work herself to the bone for you.\" Because I do work hard! I'm not lazy! I just also want to maintain some boundaries.\n\nI want to make sure that the company and I are a good fit in terms of expectations, without coming across as rude or entitled. What kind of questions do you ask to get a sense of work-life balance at a company? What are red flags or good signs?\n\nThanks!",
-                         "likes": null,
-                         "suggested_sort": null,
-                         "user_reports": [],
-                         "secure_media": null,
-                         "link_flair_text": null,
-                         "id": "6a7asc",
-                         "view_count": null,
-                         "secure_media_embed": {},
-                         "clicked": false,
-                         "score": 5,
-                         "report_reasons": null,
-                         "author": "mydgnim",
-                         "saved": false,
-                         "mod_reports": [],
-                         "name": "t3_6a7asc",
-                         "subreddit_name_prefixed": "r/cscareerquestions",
-                         "approved_by": null,
-                         "over_18": false,
-                         "domain": "self.cscareerquestions",
-                         "hidden": false,
-                         "thumbnail": "",
-                         "subreddit_id": "t5_2sdpm",
-                         "edited": 1494355341.0,
-                         "link_flair_css_class": null,
-                         "author_flair_css_class": null,
-                         "gilded": 0,
-                         "downs": 0,
-                         "brand_safe": true,
-                         "archived": false,
-                         "removal_reason": null,
-                         "can_gild": false,
-                         "is_self": true,
-                         "hide_score": false,
-                         "spoiler": false,
-                         "permalink": "/r/cscareerquestions/comments/6a7asc/figuring_out_work_life_balance_in_a_coop/",
-                         "num_reports": null,
-                         "locked": false,
-                         "stickied": false,
-                         "created": 1494383392.0,
-                         "url": "https://www.reddit.com/r/cscareerquestions/comments/6a7asc/figuring_out_work_life_balance_in_a_coop/",
-                         "author_flair_text": null,
-                         "quarantine": false,
-                         "title": "Figuring out \"work life balance\" in a co-op interview -- without coming across as entitled?",
-                         "created_utc": 1494354592.0,
-                         "distinguished": null,
-                         "media": null,
-                         "num_comments": 5,
-                         "visited": false,
-                         "subreddit_type": "public",
-                         "ups": 5
-                    }
-               },
-               {
-                    "kind": "t3",
-                    "data": {
-                         "contest_mode": false,
-                         "banned_by": null,
-                         "media_embed": {},
-                         "subreddit": "cscareerquestions",
                          "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I am graduating college with a CS degree in a week and recently received an offer to work for a company that I interned at back in high school for full time work. They asked me what salary range I was looking for and I told them 70-80k. They asked me if I would consider 57k with a probable raise and shares in the company after a few months. This is in central Texas. I am in the interview process with 3 other companies but they seem to be insisting on an answer. What would you do in my situation?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
                          "selftext": "I am graduating college with a CS degree in a week and recently received an offer to work for a company that I interned at back in high school for full time work. They asked me what salary range I was looking for and I told them 70-80k. They asked me if I would consider 57k with a probable raise and shares in the company after a few months. This is in central Texas. I am in the interview process with 3 other companies but they seem to be insisting on an answer. What would you do in my situation?",
                          "likes": null,
@@ -875,7 +875,7 @@
                          "view_count": null,
                          "secure_media_embed": {},
                          "clicked": false,
-                         "score": 6,
+                         "score": 5,
                          "report_reasons": null,
                          "author": "throwawayshmoaway124",
                          "saved": false,
@@ -915,7 +915,7 @@
                          "num_comments": 19,
                          "visited": false,
                          "subreddit_type": "public",
-                         "ups": 6
+                         "ups": 5
                     }
                },
                {
@@ -936,7 +936,7 @@
                          "view_count": null,
                          "secure_media_embed": {},
                          "clicked": false,
-                         "score": 7,
+                         "score": 5,
                          "report_reasons": null,
                          "author": "whytheway",
                          "saved": false,
@@ -976,7 +976,7 @@
                          "num_comments": 5,
                          "visited": false,
                          "subreddit_type": "public",
-                         "ups": 7
+                         "ups": 5
                     }
                },
                {
@@ -997,7 +997,7 @@
                          "view_count": null,
                          "secure_media_embed": {},
                          "clicked": false,
-                         "score": 5,
+                         "score": 3,
                          "report_reasons": null,
                          "author": "ilvylain",
                          "saved": false,
@@ -1037,7 +1037,7 @@
                          "num_comments": 5,
                          "visited": false,
                          "subreddit_type": "public",
-                         "ups": 5
+                         "ups": 3
                     }
                },
                {
@@ -1058,7 +1058,7 @@
                          "view_count": null,
                          "secure_media_embed": {},
                          "clicked": false,
-                         "score": 4,
+                         "score": 5,
                          "report_reasons": null,
                          "author": "EthicMeta",
                          "saved": false,
@@ -1098,7 +1098,7 @@
                          "num_comments": 4,
                          "visited": false,
                          "subreddit_type": "public",
-                         "ups": 4
+                         "ups": 5
                     }
                },
                {
@@ -1180,7 +1180,7 @@
                          "view_count": null,
                          "secure_media_embed": {},
                          "clicked": false,
-                         "score": 5,
+                         "score": 4,
                          "report_reasons": null,
                          "author": "T2C47",
                          "saved": false,
@@ -1220,7 +1220,7 @@
                          "num_comments": 4,
                          "visited": false,
                          "subreddit_type": "public",
-                         "ups": 5
+                         "ups": 4
                     }
                },
                {
@@ -1302,7 +1302,7 @@
                          "view_count": null,
                          "secure_media_embed": {},
                          "clicked": false,
-                         "score": 5,
+                         "score": 4,
                          "report_reasons": null,
                          "author": "IHaveAHugeNick",
                          "saved": false,
@@ -1342,7 +1342,7 @@
                          "num_comments": 14,
                          "visited": false,
                          "subreddit_type": "public",
-                         "ups": 5
+                         "ups": 4
                     }
                },
                {
@@ -1424,7 +1424,7 @@
                          "view_count": null,
                          "secure_media_embed": {},
                          "clicked": false,
-                         "score": 6,
+                         "score": 2,
                          "report_reasons": null,
                          "author": "WhenYouGottaQuit",
                          "saved": false,
@@ -1464,7 +1464,7 @@
                          "num_comments": 12,
                          "visited": false,
                          "subreddit_type": "public",
-                         "ups": 6
+                         "ups": 2
                     }
                },
                {
@@ -1474,23 +1474,23 @@
                          "banned_by": null,
                          "media_embed": {},
                          "subreddit": "cscareerquestions",
-                         "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I&amp;#39;m looking to join a part time coding bootcamp while still working full time. I&amp;#39;m looking at Hack reactor and Thinkful. Does anyone have any experience from these two bootcamps?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
-                         "selftext": "I'm looking to join a part time coding bootcamp while still working full time. I'm looking at Hack reactor and Thinkful. Does anyone have any experience from these two bootcamps?",
+                         "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;&lt;a href=\"http://www.mondragon-corporation.com/eng/\"&gt;http://www.mondragon-corporation.com/eng/&lt;/a&gt;&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;Mondragon is one of the leading Spanish business groups, integrated by autonomous and independent cooperatives with production subsidiaries and corporate offices in 41 countries and sales in more than 150.&lt;/p&gt;\n\n&lt;p&gt;12.110\nIN TOTAL REVENUE (MILLION \u20ac)&lt;/p&gt;\n\n&lt;p&gt;261\nBUSINESSES AND COOPERATIVES&lt;/p&gt;\n\n&lt;p&gt;74.335\nEMPLOYEES&lt;/p&gt;\n\n&lt;p&gt;15\nTECHNOLOGY CENTRES&lt;/p&gt;\n&lt;/blockquote&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+                         "selftext": "http://www.mondragon-corporation.com/eng/\n\n&gt;Mondragon is one of the leading Spanish business groups, integrated by autonomous and independent cooperatives with production subsidiaries and corporate offices in 41 countries and sales in more than 150.\n\n&gt;12.110\nIN TOTAL REVENUE (MILLION \u20ac)\n\n&gt;261\nBUSINESSES AND COOPERATIVES\n\n&gt;74.335\nEMPLOYEES\n\n&gt;15\nTECHNOLOGY CENTRES",
                          "likes": null,
                          "suggested_sort": null,
                          "user_reports": [],
                          "secure_media": null,
                          "link_flair_text": null,
-                         "id": "6a1oyu",
+                         "id": "6a2aec",
                          "view_count": null,
                          "secure_media_embed": {},
                          "clicked": false,
                          "score": 3,
                          "report_reasons": null,
-                         "author": "scarsam",
+                         "author": "EricGrahamMacEachern",
                          "saved": false,
                          "mod_reports": [],
-                         "name": "t3_6a1oyu",
+                         "name": "t3_6a2aec",
                          "subreddit_name_prefixed": "r/cscareerquestions",
                          "approved_by": null,
                          "over_18": false,
@@ -1510,26 +1510,26 @@
                          "is_self": true,
                          "hide_score": false,
                          "spoiler": false,
-                         "permalink": "/r/cscareerquestions/comments/6a1oyu/hack_reactor_or_thinkful_parttime_remote_bootcamp/",
+                         "permalink": "/r/cscareerquestions/comments/6a2aec/would_a_cooperative_business_model_work_for/",
                          "num_reports": null,
                          "locked": false,
                          "stickied": false,
-                         "created": 1494314021.0,
-                         "url": "https://www.reddit.com/r/cscareerquestions/comments/6a1oyu/hack_reactor_or_thinkful_parttime_remote_bootcamp/",
+                         "created": 1494320688.0,
+                         "url": "https://www.reddit.com/r/cscareerquestions/comments/6a2aec/would_a_cooperative_business_model_work_for/",
                          "author_flair_text": null,
                          "quarantine": false,
-                         "title": "Hack Reactor or Thinkful part-time remote bootcamp.",
-                         "created_utc": 1494285221.0,
+                         "title": "Would a cooperative business model work for software development?",
+                         "created_utc": 1494291888.0,
                          "distinguished": null,
                          "media": null,
-                         "num_comments": 1,
+                         "num_comments": 0,
                          "visited": false,
                          "subreddit_type": "public",
                          "ups": 3
                     }
                }
           ],
-          "after": "t3_6a1oyu",
+          "after": "t3_6a2aec",
           "before": null
      }
 }
