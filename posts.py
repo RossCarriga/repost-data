@@ -5,32 +5,35 @@ import requests
 SAMPLE_REDDIT_URL = 'http://www.reddit.com/r/cscareerquestions/top.json'
 
 def sample_valid_reddit_response(url):
-	r = requests.get(url)
-	response_json = r.json()
+    r = requests.get(url)
+    response_json = r.json()
 
-	if 'data' not in response_json:
-		print("Trying again")
-		response_json = sample_valid_reddit_response(url)
-	return response_json
+    if 'data' not in response_json:
+        print("Trying again")
+        response_json = sample_valid_reddit_response(url)
 
-def save_sample():
-	response_json = sample_valid_reddit_response(SAMPLE_REDDIT_RESPONSE)
+    if 'children' in response_json['data']: 
+        del response_json['data']['children']
+    else:
+        with open('sample_response.json', 'w+') as f:
+            json.dump(response_json, f, indent=5)
+    return response_json
 
-	del response_json['data']['children']
-
-	with open('sample_response.json', 'w+') as f:
-		json.dump(response_json, f, indent=5)
-
-def get_next_reddit_response():
-    response = {}
-    with open('sample_response.json', 'r') as f:
-        response = json.load(f)
-    
-    after = response['data']['after']
+def get_next_reddit_response(sample):
+    response = {}    
+    after = sample['data']['after']
     response_json = sample_valid_reddit_response(SAMPLE_REDDIT_URL + '?after=' + after)
-    del response_json['data']['children']
+    return response_json
 
-    print(response_json)
+def get_all_responses():
+    sample = sample_valid_reddit_response(SAMPLE_REDDIT_URL)
+    print(sample)
+    
+    while sample['data']['after'] != "null" and sample['data']['after'] != None:
+        sample = get_next_reddit_response(sample)
+        print(sample)
+    
+    print("end")
 
 if '__main__' == __name__:
-	get_next_reddit_response()
+    get_all_responses()
